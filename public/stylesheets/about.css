@@ -6,4 +6,7 @@ body {
 #about-div {
     
    margin: 30px 45px 30px 45px;
+   background-color: white;
+   padding: 15px;
+   border-radius: 4px;
 }
